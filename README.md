@@ -55,10 +55,6 @@ This Power BI project executed a comprehensive HR analytics initiative, providin
 
 Feel free to contribute by forking the repository, making changes, and submitting a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Thanks to the contributors and the Power BI community for their support and inspiration.
@@ -66,7 +62,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
-# 2.  Walmart Sales Dashboard - Power BI Project
+# 2.  Walmart Sales Dashboard 
 
 ## Overview
 
@@ -107,10 +103,6 @@ This Power BI project is dedicated to creating an insightful and visually compel
 ## Contributing
 
 Feel free to contribute by forking the repository, making changes, and submitting a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
