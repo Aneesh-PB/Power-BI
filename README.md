@@ -2,7 +2,7 @@
 
 This repository consists of Power BI projects done on sample data.
 
-#1. HR Analytics:
+# 1. HR Analytics:
 
 ## Overview
 
@@ -66,7 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
-#2.  Walmart Sales Dashboard - Power BI Project
+# 2.  Walmart Sales Dashboard - Power BI Project
 
 ## Overview
 
